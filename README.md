@@ -60,25 +60,6 @@
 
 - JWT stored in localStorage
 
-#  Folder Structure (Frontend)
-
-📦 client/
-├── 📁 components/
-│   ├── Header/
-│   ├── Active.jsx
-│   ├── Completed.jsx
-│   ├── AllTask.jsx
-│   ├── Login.jsx
-│   ├── Register.jsx
-│   └── forgotPassword/
-│       ├── ForgotPassword.jsx
-│       └── ResetPassword.jsx
-├── 📁 context/
-├── 📁 reducer/
-├── 📁 Axios/
-│   └── axios.js (Base URL setup)
-├── App.js
-└── index.js
 ## Google OAuth Integration
 Configured on Google Cloud Console.
 
